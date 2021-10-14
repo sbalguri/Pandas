@@ -1,2 +1,2 @@
 # NumPy
-Python - Pandas Library usage
+Python - NumPy Library usage
